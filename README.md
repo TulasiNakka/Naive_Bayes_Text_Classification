@@ -11,3 +11,4 @@ Tasks included are:
 5. Calcualated the final test accuracy
 6. Fetched the Top 10 words fro class
 
+Blog Link - https://medium.com/@tulasinakka18/na%C3%AFve-bayes-text-classification-for-rotten-tomatoes-reviews-dataset-e0421f8f52a2
